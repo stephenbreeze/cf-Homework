@@ -1,0 +1,79 @@
+---
+title: "Finance 5350 - Final Essay Proposal"
+author: "Stephen Breeze"
+date: "October 26, 2018"
+output: pdf_document
+---
+
+
+1. Read the paper _What Should Economists Do?_ by James M. Buchanan. 
+  - Outline what Buchanan's main point is.
+  - What does Buchanan mean by the word ___catallatics___?
+  - According to Buchanan what do most economists do?
+  - What does he think they should do differently?
+ 
+__Answers__  
+James Buchannan argues that economist should be "market economist", and that they should "Focus on the exchange institutions.  
+
+He referring to the way a free market system reaches exchange rations and prices. Or, the order of  brought by mutual adjustments to individuals in a market. 
+
+Simply, he argues that economist should look at the big picture. Economics isn't a science. He looks at the model of perfect competition to have limited explanatory value. He considers markets as "the institutional embodiment of the voluntary exchange process that is entered into by individuals in their exchange relationships".  
+
+ __Intro and Abstract__
+
+##### What should Economist do in 2018? / (Why should Econometricians use AI)
+
+  
+  _Intro and Abstract_
+    
+
+Why I don't agree with Buchanan's bold statement to a tee, I do agree that Economists should spend more time on the market systems rather than spending a large majority of their time picking out variables and running regressions. In the Economics in AI paper, the author Taddy, argues that in this day and age computation is cheap. By implementing various forms of big data analysis tools and statistical models, Economist can spend more time asking better questions.  
+
+For my paper I don't want to spend very much of the essay, discussing Buchanan. However, I will touch on the fact that economists and computational finance professionals need keep the "theory of markets" in mind when they write their models.  
+
+Hayak writes "If we can agree that the economic problem of society is mainly one of rapid adaptation to changes in the particular circumstances of time and place, it would seem to follow the the ultimate decisions must be left to the people who are familiar with those circumstances. "  
+
+The main idea of my paper, will be to persuade economist to use AI as the muscle in their computation. Not only for more accurate predictions, but to save time, and labor costs in deriving and tuning economic models.
+
+__Outline__ 
+
+*	Introduction
+  + Describe Buchanan and Hayaks argument, why should economist do. 
+  + Introduce AI
+* Why should economists uses AI
+  +	Discuss the division of knowledge and how that applies to economists
+  +	Write about the need for economist to "discover the rules for the game" so that there AI models can find causal and make predictions. 
+*	Bigdata
+  +	Discuss the need for understanding big data analysis. 
+  +Discuss the different tools to manipulate big data
+*	Machine Learning 
+*	Conclusion
+ 
+_Pasted bitech citations into the master bib_
+
+### Buchanan
+
+_Summary listed above_
+
+### Hayak 
+_Summary_
+
+There is a division of knowledge in economics. Although contradictory, Everyone strives to maximize their own utility and big or small, experts exist in every part of the market.  Markets require no human design. 
+
+### Tady
+Technological Elements of AI  
+_Summary_  
+Many economists are asked to answer economic questions such as pricing at a ridiculous scale. 
+There is a massive need for economic labor. Not enough economic PhDs. 
+Economist are very good at breaking down a cause question into very simple prediction tasks. Which then lead to labor intensive OLS, but machine learning is cheaper and faster.  Discusses the need for AI and machine learning.  AI can win packman but it can solve economic issues yet. Economists need to be the ones writing the "packman code" for economic problems so that AI can win.  
+  
+### Varian
+Big data: New tips and tricks  
+_Summary_  
+  
+Discusses the tools and methods to analyze big data. Classification, regression trees, random forest and LASSO as well as machine learning.  Machine learning models tend to give better prediction by using out-of-sample prediction other than choosing a single model. The paper discusses that although the some of the best systems combine hundreds of models, good quality can be obtained by combinding  a small number of carefully chosen methods. Because big data is getting so big, Tools developed for small data sets will become more and more inadequate to deal with new problems.  
+ 
+
+
+
+
